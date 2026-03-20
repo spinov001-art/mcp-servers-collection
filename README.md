@@ -2,6 +2,8 @@
 
 15 MCP-compatible servers for AI agents. All run on [Apify](https://apify.com/store?search=knotless_cadence) with a free tier.
 
+> **Need custom data extraction?** I'll scrape any website for $20. Email **Spinov001@gmail.com** or [see pricing](https://spinov001-art.github.io).
+
 ## Servers
 
 | Server | Description |
