@@ -32,6 +32,6 @@
 
 ## Resources
 
-- [60+ free scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026)
-- [Market research reports](https://payhip.com/aimarketintel)
+- [77 free scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026)
+- [Market research reports](https://github.com/spinov001-art/ai-market-research-reports)
 - [All tools on Apify](https://apify.com/store?search=knotless_cadence)
