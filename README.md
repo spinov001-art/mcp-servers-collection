@@ -48,3 +48,19 @@
 - [77 free scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026)
 - [All tools on Apify](https://apify.com/store?search=knotless_cadence)
 - [490+ Dev.to Articles](https://dev.to/0012303)
+
+---
+
+## Need a Custom MCP Server or AI Integration?
+
+I build **production-grade MCP servers**, API integrations, and AI agent workflows — delivered in 48 hours.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your use case, get a free quote within 2 hours.
+
+💳 **[Pay via Payoneer](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** — custom MCP server $250 flat rate.
+
+🔧 **[78+ ready-made scrapers on Apify](https://apify.com/knotless_cadence)** — deploy in 1 click.
+
+## License
+
+MIT — Star this repo if you find it useful!
