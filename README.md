@@ -30,6 +30,15 @@
 2. **Claude Desktop** — configure as MCP server
 3. **n8n/Make** — use Apify integration
 
+
+---
+
+**Need a custom MCP server or AI agent integration?** I build production-grade MCP servers, data pipelines, and AI automation — delivered in 48 hours.
+
+- [78+ scrapers on Apify Store](https://apify.com/knotless_cadence) — Reddit, HN, YouTube, Trustpilot, and more
+- Custom MCP server development starting at $250
+- 📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — response within 2 hours
+
 ## Resources
 
 - [Awesome AI Agents](https://github.com/spinov001-art/awesome-ai-agents) — agent frameworks, MCP, platforms
