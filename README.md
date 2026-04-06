@@ -2,7 +2,7 @@
 
 15 MCP-compatible servers for AI agents. All run on [Apify](https://apify.com/store?search=knotless_cadence) with a free tier.
 
-> **Need custom market research?** $20 for a full report on any industry. [**Order via Payoneer**](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or email **Spinov001@gmail.com**
+> **Need custom market research?** $250 for a professional market research report. [**Order via Payoneer**](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or email **Spinov001@gmail.com**
 
 ## Servers
 
@@ -43,11 +43,11 @@
 
 - [Awesome AI Agents](https://github.com/spinov001-art/awesome-ai-agents) — agent frameworks, MCP, platforms
 - [Awesome LLM Tools](https://github.com/spinov001-art/awesome-llm-tools) — inference, RAG, deployment
-- [MCP Explained in 5 Minutes](https://dev.to/0012303/mcp-explained-in-5-minutes-the-protocol-that-makes-ai-agents-actually-useful-5dfj) — tutorial
+- [MCP Explained in 5 Minutes](https://github.com/spinov001-art/mcp-explained-in-5-minutes-the-protocol-that-makes-ai-agents-actually-useful-5dfj) — tutorial
 - [Free API Directory](https://github.com/spinov001-art/free-api-directory) — 100+ free APIs
-- [77 free scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026)
+- [79+ free scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026)
 - [All tools on Apify](https://apify.com/store?search=knotless_cadence)
-- [490+ Dev.to Articles](https://dev.to/0012303)
+- [Technical articles](https://github.com/spinov001-art)
 
 ---
 
